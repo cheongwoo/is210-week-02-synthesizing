@@ -3,7 +3,7 @@
 """This is task_03"""
 
 
-CHARLIE = "Chocolate Factory"
+CHARLIE = "Brown"
 VIOLET = "Gray"
 PATRICIA = "Reichardt"
 LINUS = "van Pelt"
